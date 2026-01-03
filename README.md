@@ -7,6 +7,19 @@ I created this project as my first step in learning Python and as an introductio
 
 ---
 
+## Why I built this
+I built this project to practice writing a complete CLI program from start to finish.
+My main focus was building a clear menu flow, handling tasks in memory, and keeping the code readable.
+
+---
+
+## What I learned
+- How to design a simple CLI menu and keep the user flow clear
+- How to manage a list of tasks (add / show / complete / delete) in a clean way
+- Where the weak points are (input validation, structure), and what to improve next
+
+---
+
 ## What is this project?
 The main purpose of this app is to manage a basic list of tasks.  
 The user can:
@@ -47,7 +60,7 @@ The current version includes:
 
 5. Exit the program via the menu
 
-This is a minimal, beginner-friendly implementation and intentionally kept simple.
+This is a first working version that I will improve step by step.
 
 ---
 
