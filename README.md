@@ -7,6 +7,11 @@ I created this project as my first step in learning Python and as an introductio
 
 ---
 
+## Demo
+![Demo](assets/Demo.png)
+
+---
+
 ## Why I built this
 I built this project to practice writing a complete CLI program from start to finish.
 My main focus was building a clear menu flow, handling tasks in memory, and keeping the code readable.
