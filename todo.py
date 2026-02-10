@@ -92,22 +92,22 @@ while start_program:
     print('5) Exit')
     
     # User menu selection
-    choise_number = int(input('Choise: '))
+    choice_number = int(input('Choice: '))
     
     # Menu routing
-    if choise_number == 1:
+    if choice_number == 1:
         operation.add_task()
         
-    elif choise_number == 2:
+    elif choice_number == 2:
         operation.show_tasks()
         
-    elif choise_number == 3:
+    elif choice_number == 3:
         operation.mark_as_done_delete()
         
-    elif choise_number == 4:
+    elif choice_number == 4:
         operation.delete_task()
         
-    elif choise_number == 5:
+    elif choice_number == 5:
         # Stop loop
         start_program = operation.exit_program()
         
